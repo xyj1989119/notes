@@ -1,18 +1,8 @@
 # README
 
-{% page-ref page="yun-ying-xiang-guan/yong-hu-qun-ti-hua-fen.md" %}
-
-
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+* 运营相关
+  * [用户群体划分](yun-ying-xiang-guan/yong-hu-qun-ti-hua-fen.md)
+  * [用户标签](yun-ying-xiang-guan/yong-hu-biao-qian.md)
 
 
 
