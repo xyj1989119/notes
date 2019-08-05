@@ -7,3 +7,5 @@ description: >-
 
 ![&#x8FD0;&#x8425;&#x7814;&#x7A76;&#x793E; &#x300A;&#x8FD0;&#x8425;&#x6280;&#x80FD;&#x5730;&#x56FE;2.0&#x300B;](../.gitbook/assets/image%20%283%29.png)
 
+* 用户常用所在地
+* 
