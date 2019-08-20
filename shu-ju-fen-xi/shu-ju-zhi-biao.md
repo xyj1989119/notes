@@ -8,7 +8,7 @@ description: 数据分析时用到的一些指标
 ## 用户忠诚度模型
 {% endhint %}
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 {% hint style="info" %}
 ## 功能覆盖率
