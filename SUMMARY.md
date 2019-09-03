@@ -18,4 +18,5 @@
 ## 产品
 
 * [竞品分析](chan-pin/jing-pin-fen-xi.md)
+* [行业分析报告](chan-pin/hang-ye-fen-xi.md)
 
