@@ -4,7 +4,7 @@
 
 ## 运营相关
 
-* [用户群体划分](yun-ying-xiang-guan/yong-hu-qun-ti-hua-fen.md)
+* [RFM模型划分用户](yun-ying-xiang-guan/yong-hu-qun-ti-hua-fen.md)
 * [用户标签](yun-ying-xiang-guan/yong-hu-biao-qian.md)
 * [用户生命周期管理](yun-ying-xiang-guan/yong-hu-sheng-ming-zhou-qi-guan-li.md)
 
