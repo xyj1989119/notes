@@ -11,6 +11,7 @@
 ## 数据分析
 
 * [数据指标](shu-ju-fen-xi/shu-ju-zhi-biao.md)
+* [数据分析方法](shu-ju-fen-xi/shu-ju-fen-xi-fang-fa.md)
 
 ## 风控
 

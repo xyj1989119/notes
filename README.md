@@ -6,6 +6,7 @@
   * [用户生命周期管理](yun-ying-xiang-guan/yong-hu-sheng-ming-zhou-qi-guan-li.md)
 * 数据分析
   * [数据指标](shu-ju-fen-xi/shu-ju-zhi-biao.md)
+  * [数据分析方法](shu-ju-fen-xi/shu-ju-fen-xi-fang-fa.md)
 * 风控
   * [风控要点](feng-kong/untitled.md)
 * 产品
