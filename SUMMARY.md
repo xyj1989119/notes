@@ -12,6 +12,7 @@
 
 * [数据指标](shu-ju-fen-xi/shu-ju-zhi-biao.md)
 * [数据分析方法](shu-ju-fen-xi/shu-ju-fen-xi-fang-fa.md)
+* [转化率分析漏斗](shu-ju-fen-xi/zhuan-hua-lv-fen-xi-lou-dou.md)
 
 ## 风控
 
